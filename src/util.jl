@@ -1,5 +1,5 @@
 
 # For abstract interfaces
-macro NI
+macro NI()
     :(error("Not implemented"))
 end
